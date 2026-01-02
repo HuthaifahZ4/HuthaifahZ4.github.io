@@ -158,3 +158,5 @@ rubiconproject.com, 22544, RESELLER, 0bfd66d529a55807
 vidazoo.com, 67aa86ac8effa21af881368d, RESELLER, b6ada874b4d7d0b2
 undertone.com, 4261, RESELLER
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
+video.unrulymedia.com, 2464975885, RESELLER
+bidmachine.io, 1447, RESELLER
