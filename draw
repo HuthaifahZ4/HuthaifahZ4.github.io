@@ -1,1 +1,3 @@
-is_draw_enabled=true
+{
+  "is_draw_enabled": true
+}
